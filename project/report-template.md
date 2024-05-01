@@ -6,7 +6,7 @@
 When I first attempted to submit my predictions, I realized that the output format did not match the competition's requirements. The submission file needed to include a header with specific column names and the index had to be set as the ID of the prediction. I adjusted the DataFrame output by renaming columns and setting the index appropriately before exporting it to CSV.
 
 ### What was the top ranked model that performed?
-The top-performing model in the initial training phase was the Extra Trees Regressor. This model excelled due to its ability to handle non-linear relationships and its robustness to outliers, which are common in urban bike sharing data.
+WeightedEnsemble_L3
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
